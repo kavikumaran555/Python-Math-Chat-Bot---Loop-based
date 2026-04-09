@@ -1,6 +1,7 @@
 # Python-Math-Chat-Bot---Loop-based
 A simple Python chatbot to perform mathematical calculations. It is a beginner friendly loop based chat project.
 
+![Output](https://github.com/kavikumaran555/Python-Math-Chat-Bot---Loop-based/raw/main/python%20math%20chat%20agent%20output%20image.JPG)
 
 It can:
 Say hello and answer simple questions
